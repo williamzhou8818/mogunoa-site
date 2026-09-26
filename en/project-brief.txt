@@ -1,0 +1,24 @@
+MOGUNOA | Restaurant pilot introduction
+Company: Candsystem
+Contact: customerservice@candsystem.com
+
+A great meal starts with a conversation.
+MOGUNOA is a concept for a tabletop AI dining companion. Through natural conversation, guests could explore menus, choose dishes, confirm orders, request another round and ask for staff assistance. The first generation focuses on conversation at the table; it does not move or deliver food.
+
+Who are we looking for?
+We plan to start with independent restaurants in Tokyo with around 10–40 seats, including izakaya, yakitori and Japanese dining venues. We welcome owners interested in improving menu explanations, recommendations or reordering.
+
+How would a pilot begin?
+1. Discuss your restaurant’s needs and current ordering process.
+2. Once a working prototype is ready, agree on menu preparation, a small number of tables and staff handoffs.
+3. Gather feedback from owners, staff and guests, improve the experience and discuss whether to continue.
+
+Current stage and pilot plans
+We are at the concept and prototype preparation stage. We plan to complete one working demo, followed by initial free pilots at 3–5 restaurants. These are targets, not delivered units or signed restaurant partners.
+Timing, support and specific terms will be agreed through discussion. Sales or efficiency improvements have not yet been demonstrated.
+The website’s images and film illustrate the concept; they are not footage of a working product. Conversations, dishes, prices and order displays are scripted examples. The site does not submit real orders or call restaurant staff.
+The website is available in Japanese, Chinese and English. This does not mean multilingual voice capabilities have been completed in the product.
+
+Let’s start a conversation
+Tell us your restaurant name, neighborhood, cuisine, approximate seating capacity, current ordering process and the service challenge you would most like to improve. There is no need to commit to an installation before getting in touch.
+customerservice@candsystem.com

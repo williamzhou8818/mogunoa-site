@@ -1,0 +1,30 @@
+/* Investor-facing sections; extends the existing product visual system. */
+.business-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.business-grid article{padding:32px 27px}
+.business-grid article+article{border-left:1px solid var(--line)}
+.business-grid h3{font-size:23px;line-height:1.5;margin:22px 0 16px}
+.business-grid p{font-size:16px;line-height:1.9;color:var(--muted)}
+.business-grid .subscription{background:#edf0dd}
+.price-hypothesis{font-size:clamp(22px,2.25vw,32px);font-weight:750;letter-spacing:-1px;white-space:nowrap}
+.price-unit,.model-label{display:block;font-size:14px;line-height:1.8;color:var(--muted)}
+.model-label{border-top:1px solid var(--line);padding-top:15px;margin-top:25px}
+.pilot{padding-top:20px}
+.stage-disclosure{margin-top:38px;padding:22px 25px;border-left:3px solid var(--orange);background:#f0f0e9}
+.stage-disclosure strong{font-size:16px}
+.stage-disclosure p{font-size:15px;line-height:1.9;color:var(--muted);margin:10px 0 0;max-width:940px}
+.investment{background:var(--lime)}
+.investment-grid{display:grid;grid-template-columns:1.05fr 1fr;gap:10%;align-items:center}
+.investment-grid>div>p{font-size:17px;line-height:1.9;max-width:530px;margin:25px 0;color:#424735}
+.investment .button{margin-top:9px}
+.investor-topics ol{padding:0;margin:25px 0 0;list-style:none}
+.investor-topics li{display:flex;gap:22px;padding:22px 0;border-top:1px solid #aab46f}
+.investor-topics li>span{font-size:13px;padding-top:3px;color:#586237}
+.investor-topics strong{font-size:18px;font-weight:650}
+.investor-topics p{font-size:15px;line-height:1.8;color:#424735;margin:9px 0 0}
+.contact-action{margin-right:12px}
+.contact-details{display:flex;flex-direction:column;align-items:flex-start;gap:8px;margin:22px 0 12px}
+.contact-details strong{font-size:18px}
+.contact-details a{font-size:16px;line-height:1.7;text-decoration:underline;text-underline-offset:4px;overflow-wrap:anywhere;max-width:100%}
+.footer small a{overflow-wrap:anywhere;text-decoration:underline;text-underline-offset:3px}
+@media(max-width:1050px){.business-grid article{padding:27px 20px}.business-grid h3{font-size:21px}.investment-grid{gap:6%}}
+@media(max-width:760px){.business-grid{grid-template-columns:1fr}.business-grid article{padding:26px}.business-grid article+article{border-left:0;border-top:1px solid var(--line)}.price-hypothesis{font-size:32px}.business-grid h3{font-size:23px}.investment-grid{grid-template-columns:1fr;gap:35px}.investment-grid h2{font-size:32px}.investment-grid>div>p{font-size:16px}.stage-disclosure{padding:20px}.pilot{padding-top:0}.investor-topics li{gap:17px}.contact-action{margin-bottom:12px}}
